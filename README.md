@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rgaspary" alt="rgaspary" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/renzo_gaspary" target="blank"><img src="https://img.shields.io/twitter/follow/renzo_gaspary?logo=twitter&style=for-the-badge" alt="renzo_gaspary" /></a> </p>
-
 - 🌱 I’m currently learning **Pega Platform**
 
 - 👨‍💻 All of my projects are available at [github.com/rgaspary](github.com/rgaspary)
@@ -17,10 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/renzo_gaspary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="renzo_gaspary" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/renzogaspary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renzogaspary" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/415527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="415527" height="30" width="40" /></a>
-<a href="https://instagram.com/renzoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="renzoui" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
