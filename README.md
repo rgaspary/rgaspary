@@ -20,11 +20,11 @@ system to deployment — let's talk.</p>
 <a href="https://linkedin.com/in/renzo-gaspary-4846193a7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinedIn"/></a>
 
 <h2>🛠 Tech Stack</h2>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,html,sass,tailwind,styledcomponents,nodejs,express,git&perline=5" alt="Tech Stack" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,js,html,sass,tailwind,styledcomponents,nodejs,express,git&perline=5&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,ts,js,html,sass,tailwind,styledcomponents,nodejs,express,git&perline=5&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,sass,tailwind,styledcomponents,nodejs,express,git&perline=5" alt="Tech Stack" />
+</picture>
 
 <p style="margin-top: 30px;"><img align="center" src="https://streak-stats.demolab.com/?user=rgaspary&" alt="rgaspary" /></p>
 
