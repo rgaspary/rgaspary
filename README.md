@@ -4,10 +4,8 @@
 <h2>👨‍💻 About Me</h2>
 
 <ul>
-  <li>🔭 I’m currently working on [PennyWise budgeting application](https://github.com/rgaspary/PennyWise)</li>
   <li>💬 Ask me about <strong>react, typescript, styled-components, pega constellation</strong></li>
-  <li>🔭 Currently building portfolio projects that span <strong>React + FastAPI + PostgreSQL</strong></li>
-  <li>🧠 Expanding into <strong>full-stack</strong> to better serve consulting clients end-to-end</li>
+  <li>🔭 Currently building portfolio projects that span <strong>React + FastAPI + PostgreSQL</strong>, working on <a href="https://github.com/rgaspary/PennyWise">PennyWise budgeting application</a>, and learning Python programming</li>
   <li>🤝 Open to <strong>consulting engagements</strong> — UI architecture, component systems, and front-end strategy</li>
   <li>⚡ Outside of code: RV travel, 3D printing, and tinkering with self-hosted infrastructure</li>
 </ul>
