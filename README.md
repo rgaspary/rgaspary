@@ -21,8 +21,8 @@ system to deployment — let's talk.</p>
 
 <h2>🛠 Tech Stack</h2>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,js,html,sass,tailwind,styledcomponents,nodejs,express,git&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,ts,js,html,sass,tailwind,styledcomponents,nodejs,express,git&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,js,html,sass,tailwind,styledcomponents,nodejs,express,git&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,ts,js,html,sass,tailwind,styledcomponents,nodejs,express,git&amp;theme=light" />
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,sass,tailwind,styledcomponents,nodejs,express,git" alt="Languages and Tools" />
 </picture>
 
