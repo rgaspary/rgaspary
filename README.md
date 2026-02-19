@@ -24,6 +24,9 @@ system to deployment — let's talk.</p>
   </a>
 </p>
 
-<p style="margin-top: 30px;"><img align="center" src="https://streak-stats.demolab.com/?user=rgaspary&" alt="rgaspary" /></p>
+<h2>📊 GitHub Stats</h2>
+<p>
+  <img src="https://streak-stats.demolab.com/?user=rgaspary&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <p><img src="https://komarev.com/ghpvc/?username=rgaspary&label=Profile%20views&color=0e75b6&style=flat" alt="rgaspary" /></p>
