@@ -1,26 +1,31 @@
-<h1 align="center">Hi 👋, I'm Renzo Gaspary</h1>
-<h3 align="center">Senior Front-End Developer | React · TypeScript · Styled-Components | Available for Remote Roles.</h3>
+<h1 align="center">Hi 👋, I'm Renzo</h1>
+<h3 align="center">Senior Front-End Developer transitioning into independent consulting — focused on building fast, scalable, and maintainable UI systems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rgaspary&label=Profile%20views&color=0e75b6&style=flat" alt="rgaspary" /> </p>
+<h2>👨‍💻 About Me</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rgaspary" alt="rgaspary" /></a> </p>
+<ul>
+  <li>🔭 I’m currently working on [PennyWise budgeting application](https://github.com/rgaspary/PennyWise)</li>
+  <li>💬 Ask me about <strong>react, typescript, styled-components, pega constellation</strong></li>
+  <li>🔭 Currently building portfolio projects that span <strong>React + FastAPI + PostgreSQL</strong></li>
+  <li>🧠 Expanding into <strong>full-stack</strong> to better serve consulting clients end-to-end</li>
+  <li>🤝 Open to <strong>consulting engagements</strong> — UI architecture, component systems, and front-end strategy</li>
+  <li>⚡ Outside of code: RV travel, 3D printing, and tinkering with self-hosted infrastructure</li>
+</ul>
 
-- 🔭 I’m currently working on [PennyWise budgeting application](https://github.com/rgaspary/PennyWise)
+<h2>📫 Let's Connect</h2>
 
-- 💬 Ask me about **react, typescript, styled-components, pega constellation**
+<p>If you're looking for a consultant who can own the front-end of your product — from design 
+system to deployment — let's talk.</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/renzo-gaspary-4846193a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renzo-gaspary-4846193a7" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/415527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="415527" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/renzo-gaspary-4846193a7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinedIn"/></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></p>
+<h2>🛠 Tech Stack</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,js,html,sass,tailwind,styledcomponents,nodejs,express,git&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,ts,js,html,sass,tailwind,styledcomponents,nodejs,express,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,sass,tailwind,styledcomponents,nodejs,express,git" alt="Languages and Tools" />
+</picture>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rgaspary&show_icons=true&locale=en&layout=compact" alt="rgaspary" /></p>
+<p style="margin-top: 30px;"><img align="center" src="https://streak-stats.demolab.com/?user=rgaspary&" alt="rgaspary" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rgaspary&show_icons=true&locale=en" alt="rgaspary" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rgaspary&" alt="rgaspary" /></p>
-
+<p><img src="https://komarev.com/ghpvc/?username=rgaspary&label=Profile%20views&color=0e75b6&style=flat" alt="rgaspary" /></p>
