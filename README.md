@@ -5,7 +5,7 @@
 
 <ul>
   <li>💬 Ask me about <strong>react, typescript, styled-components, pega constellation</strong></li>
-  <li>🔭 Currently building portfolio projects that span <strong>React + FastAPI + PostgreSQL</strong>, working on <a href="https://github.com/rgaspary/PennyWise">PennyWise budgeting application</a>, and learning Python programming</li>
+  <li>🔭 Currently building portfolio projects that span <strong>React + FastAPI + PostgreSQL</strong>, working on <a href="https://github.com/rgaspary/PennyWise">PennyWise budgeting application</a></li>
   <li>🤝 Open to <strong>consulting engagements</strong> — UI architecture, component systems, and front-end strategy</li>
   <li>⚡ Outside of code: RV travel, 3D printing, and tinkering with self-hosted infrastructure</li>
   <li>🌎 <strong>Remote only</strong> — available for distributed teams worldwide</li>
