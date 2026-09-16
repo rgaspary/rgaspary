@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renzo</h1>
-<h3 align="center">Senior Front-End Developer transitioning into independent consulting — focused on building fast, scalable, and maintainable UI systems.</h3>
+<h3 align="center">**Senior UI Architect** building accessible, maintainable UI with React, TypeScript, and styled-components.</br>10+ years on the front end, currently architecting enterprise UI for client engagements. I care about design systems, accessibility, and performance you can measure.</h3>
 
 <h2>👨‍💻 About Me</h2>
 
