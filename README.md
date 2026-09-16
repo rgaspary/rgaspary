@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Renzo</h1>
-<p align="center"><strong>Senior UI Architect</strong> building accessible, maintainable UI with React, TypeScript, and styled-components.</br>10+ years on the front end, currently architecting enterprise UI for client engagements. I care about design systems, accessibility, and performance you can measure.</p>
+<p align="center"><strong>Senior UI Architect</strong> building accessible, maintainable UI with React, TypeScript, and styled-components.</p>
+<p align="center">10+ years on the front end, currently architecting enterprise UI for client engagements. I care about design systems, accessibility, and performance you can measure.</p>
 
 <h2>👨‍💻 About Me</h2>
 
