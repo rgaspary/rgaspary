@@ -6,7 +6,7 @@
 
 <ul>
   <li>💬 Ask me about <strong>react, typescript, styled-components, pega constellation</strong></li>
-  <li>🔭 Currently building portfolio projects that span <strong>React + Express + SQLite</strong>, working on <a href="https://github.com/rgaspary/prism-ui">Prism-UI component library</a></li>
+  <li>🔭 Currently building portfolio projects that span <strong>React + TypeScript + Styled-components</strong>, working on <a href="https://github.com/rgaspary/prism-ui">Prism-UI component library</a></li>
   <li>💻 UI architecture, component systems, and front-end strategy</li>
   <li>⚡ Outside of code: RV travel, 3D printing, and tinkering with self-hosted infrastructure</li>
 </ul>
